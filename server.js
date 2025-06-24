@@ -11,7 +11,9 @@ connectDB();
 const app = express();
 app.use(express.json());
 app.use(cors({
-    origin: ['http://localhost:5174', 'https://grevocab-frontend.vercel.app'],
+    origin: ['http://localhost:5174',
+        'https://grevocab-frontend.vercel.app',
+        "https://shashankapoudel.com.np"],
     methods: ["POST", "GET", "PUT"]
 }));
 
