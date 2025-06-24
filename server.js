@@ -26,6 +26,7 @@ app.use('/api/score', require('./src/routes/scoreRoutes'))
 app.use('/api/user', require('./src/routes/streakRoutes'))
 app.use('/api/avg', require('./src/routes/avgScoreRoutes'))
 app.use('/api/', require('./src/routes/leaderBoardRoutes'))
+app.use('/api', require('./src/routes/noteRoutes'))
 
 const PORT = process.env.PORT || 4000;
 
