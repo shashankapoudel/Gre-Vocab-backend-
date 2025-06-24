@@ -1,0 +1,2662 @@
+[
+    {
+        "word": "abate",
+        "meaning": "to reduce in amount, degree, or severity",
+        "sentence": "The storm suddenly abated, leaving behind a calm sea."
+    },
+    {
+        "word": "aberration",
+        "meaning": "a departure from what is normal or expected",
+        "sentence": "The outbreak of violence in this peaceful neighborhood was an aberration."
+    },
+    {
+        "word": "abjure",
+        "meaning": "to renounce or retract, especially with formal solemnity",
+        "sentence": "He decided to abjure his previous beliefs after extensive research."
+    },
+    {
+        "word": "abound",
+        "meaning": "exist in large numbers or amounts",
+        "sentence": "Wildlife abounds in the national park."
+    },
+    {
+        "word": "abstain",
+        "meaning": "to hold oneself back voluntarily, especially from something regarded as improper or unhealthy",
+        "sentence": "He abstained from eating meat during the month of fasting."
+    },
+    {
+        "word": "accessible",
+        "meaning": "able to be reached or entered",
+        "sentence": "The remote village is only accessible by helicopter."
+    },
+    {
+        "word": "acquisitive",
+        "meaning": "excessively interested in acquiring money or material things",
+        "sentence": "Her acquisitive nature led her to pursue a career in finance."
+    },
+    {
+        "word": "acumen",
+        "meaning": "the ability to make good judgments and quick decisions, typically in a particular domain",
+        "sentence": "Her business acumen is well respected in the industry."
+    },
+    {
+        "word": "admonish",
+        "meaning": "to caution, advise, or counsel against something",
+        "sentence": "The teacher admonished the students for talking during the lesson."
+    },
+    {
+        "word": "adulterate",
+        "meaning": "to make something impure by adding inferior materials",
+        "sentence": "The company was fined for trying to adulterate its products with cheaper substances."
+    },
+    {
+        "word": "adversary",
+        "meaning": "one's opponent in a contest, conflict, or dispute",
+        "sentence": "He managed to defeat his adversary in the final match."
+    },
+    {
+        "word": "advocate",
+        "meaning": "to speak in favor of; support or urge by argument",
+        "sentence": "She is known to advocate for the rights of the underprivileged."
+    },
+    {
+        "word": "aesthetic",
+        "meaning": "concerned with beauty or the appreciation of beauty",
+        "sentence": "The aesthetic design of the building won several awards."
+    },
+    {
+        "word": "affectation",
+        "meaning": "behavior, speech, or writing that is artificial and designed to impress",
+        "sentence": "His accent seemed to be an affectation rather than a natural trait."
+    },
+    {
+        "word": "aggrandize",
+        "meaning": "to increase the power, status, or wealth of",
+        "sentence": "He sought to aggrandize his reputation by spreading false stories about his achievements."
+    },
+    {
+        "word": "alacrity",
+        "meaning": "brisk and cheerful readiness",
+        "sentence": "She accepted the invitation with alacrity."
+    },
+    {
+        "word": "aloof",
+        "meaning": "not friendly or forthcoming; cool and distant",
+        "sentence": "He remained aloof from the rest of the group during the meeting."
+    },
+    {
+        "word": "amalgamate",
+        "meaning": "to combine or unite to form one organization or structure",
+        "sentence": "The two companies decided to amalgamate to increase their market share."
+    },
+    {
+        "word": "ameliorate",
+        "meaning": "to make (something bad or unsatisfactory) better",
+        "sentence": "Steps were taken to ameliorate the poor working conditions."
+    },
+    {
+        "word": "amenable",
+        "meaning": "open and responsive to suggestion; easily persuaded or controlled",
+        "sentence": "She was amenable to the idea of extending the deadline."
+    },
+    {
+        "word": "anachronistic",
+        "meaning": "belonging to a period other than that being portrayed",
+        "sentence": "The use of a typewriter in the office was seen as anachronistic in the digital age."
+    },
+    {
+        "word": "arcane",
+        "meaning": "understood by few; mysterious or secret",
+        "sentence": "The professor's lectures were full of arcane references that confused most of the students."
+    },
+    {
+        "word": "archaic",
+        "meaning": "very old or old-fashioned",
+        "sentence": "The archaic laws were finally abolished after decades of debate."
+    },
+    {
+        "word": "arduous",
+        "meaning": "involving or requiring strenuous effort; difficult and tiring",
+        "sentence": "Climbing the mountain was an arduous task that took days to complete."
+    },
+    {
+        "word": "artless",
+        "meaning": "without guile or deception",
+        "sentence": "Her artless charm won the hearts of everyone she met."
+    },
+    {
+        "word": "ascertain",
+        "meaning": "to find out for certain",
+        "sentence": "The detective was able to ascertain the truth after thorough investigation."
+    },
+    {
+        "word": "ascetic",
+        "meaning": "characterized by or suggesting the practice of severe self-discipline and abstention from all forms of indulgence, typically for religious reasons",
+        "sentence": "The monk lived an ascetic life of fasting and prayer."
+    },
+    {
+        "word": "asperity",
+        "meaning": "harshness of tone or manner",
+        "sentence": "The asperity in his voice made it clear that he was upset."
+    },
+    {
+        "word": "assertive",
+        "meaning": "having or showing a confident and forceful personality",
+        "sentence": "She was assertive in expressing her opinions during the meeting."
+    },
+    {
+        "word": "assuage",
+        "meaning": "to make (an unpleasant feeling) less intense",
+        "sentence": "The medicine helped to assuage her pain."
+    },
+    {
+        "word": "astonishment",
+        "meaning": "great surprise",
+        "sentence": "To her astonishment, she found herself promoted after only a few months."
+    },
+    {
+        "word": "attenuate",
+        "meaning": "to reduce the force, effect, or value of",
+        "sentence": "The effects of the disease were attenuated by early treatment."
+    },
+    {
+        "word": "audacious",
+        "meaning": "showing a willingness to take surprisingly bold risks",
+        "sentence": "Her audacious plan to climb the highest peak without any assistance amazed everyone."
+    },
+    {
+        "word": "augment",
+        "meaning": "to make something greater by adding to it; increase",
+        "sentence": "He worked extra hours to augment his income."
+    },
+    {
+        "word": "austere",
+        "meaning": "severe or strict in manner, attitude, or appearance",
+        "sentence": "The teacher was known for his austere demeanor."
+    },
+    {
+        "word": "avaricious",
+        "meaning": "having or showing an extreme greed for wealth or material gain",
+        "sentence": "The avaricious businessman was known for exploiting his workers."
+    },
+    {
+        "word": "averse",
+        "meaning": "having a strong dislike of or opposition to something",
+        "sentence": "She was averse to the idea of working overtime."
+    },
+    {
+        "word": "aversion",
+        "meaning": "a strong dislike or disinclination",
+        "sentence": "He had a deep aversion to speaking in public."
+    },
+    {
+        "word": "banal",
+        "meaning": "so lacking in originality as to be obvious and boring",
+        "sentence": "The movie was criticized for its banal plot."
+    },
+    {
+        "word": "banish",
+        "meaning": "to send (someone) away from a country or place as an official punishment",
+        "sentence": "The king decided to banish the traitor from the kingdom."
+    },
+    {
+        "word": "base",
+        "meaning": "the lowest part or edge of something, especially the part on which it rests or is supported",
+        "sentence": "The base of the statue was made of marble."
+    },
+    {
+        "word": "belie",
+        "meaning": "(of an appearance) fail to give a true notion or impression of (something); disguise or contradict",
+        "sentence": "His calm demeanor belied the anger he felt inside."
+    },
+    {
+        "word": "benign",
+        "meaning": "gentle; kindly",
+        "sentence": "The old man had a benign smile that put everyone at ease."
+    },
+    {
+        "word": "betray",
+        "meaning": "to expose (one's country, a group, or a person) to danger by treacherously giving information to an enemy",
+        "sentence": "She felt betrayed when her friend revealed her secret."
+    },
+    {
+        "word": "blithe",
+        "meaning": "showing a casual and cheerful indifference considered to be callous or improper",
+        "sentence": "She showed a blithe disregard for the rules."
+    },
+    {
+        "word": "bogus",
+        "meaning": "not genuine or true; fake",
+        "sentence": "The police caught the man who was using a bogus identity."
+    },
+    {
+        "word": "boorish",
+        "meaning": "rough and bad-mannered; coarse",
+        "sentence": "His boorish behavior embarrassed everyone at the dinner party."
+    },
+    {
+        "word": "bolster",
+        "meaning": "to support or strengthen; prop up",
+        "sentence": "The government is planning to bolster the economy with new policies."
+    },
+    {
+        "word": "brazen",
+        "meaning": "bold and without shame",
+        "sentence": "She made a brazen attempt to steal the spotlight during the event."
+    },
+    {
+        "word": "bridle",
+        "meaning": "to bring (something) under control; curb",
+        "sentence": "He struggled to bridle his anger during the heated argument."
+    },
+    {
+        "word": "brook",
+        "meaning": "to tolerate or allow (something, typically dissent or opposition)",
+        "sentence": "The dictator would brook no opposition to his rule."
+    },
+    {
+        "word": "bucolic",
+        "meaning": "relating to the pleasant aspects of the countryside and country life",
+        "sentence": "They enjoyed the bucolic charm of the village."
+    },
+    {
+        "word": "calumny",
+        "meaning": "the making of false and defamatory statements about someone in order to damage their reputation; slander",
+        "sentence": "She was the victim of calumny after her political opponent spread lies about her."
+    },
+    {
+        "word": "candid",
+        "meaning": "truthful and straightforward; frank",
+        "sentence": "He was candid about the mistakes he had made."
+    },
+    {
+        "word": "canonize",
+        "meaning": "to regard as being above reproach or of great significance",
+        "sentence": "The author was canonized by critics for his contributions to literature."
+    },
+    {
+        "word": "capricious",
+        "meaning": "given to sudden and unaccountable changes of mood or behavior",
+        "sentence": "The weather in the mountains can be capricious."
+    },
+    {
+        "word": "castigate",
+        "meaning": "to reprimand (someone) severely",
+        "sentence": "The manager castigated the employee for his repeated mistakes."
+    },
+    {
+        "word": "cataclysmic",
+        "meaning": "relating to or denoting a violent natural event",
+        "sentence": "The earthquake was a cataclysmic event that changed the landscape forever."
+    },
+    {
+        "word": "censure",
+        "meaning": "to express severe disapproval of (someone or something), typically in a formal statement",
+        "sentence": "The senator was censured for breaking the code of conduct."
+    },
+    {
+        "word": "chauvinistic",
+        "meaning": "showing or relating to excessive or prejudiced loyalty or support for a particular group or cause",
+        "sentence": "His chauvinistic views about gender roles alienated many of his colleagues."
+    },
+    {
+        "word": "cherish",
+        "meaning": "to protect and care for someone lovingly",
+        "sentence": "She cherished the memories of her childhood."
+    },
+    {
+        "word": "chicanery",
+        "meaning": "the use of trickery to achieve a political, financial, or legal purpose",
+        "sentence": "The company was accused of using chicanery to avoid paying taxes."
+    },
+    {
+        "word": "circumscribe",
+        "meaning": "to restrict (something) within limits",
+        "sentence": "The new laws were intended to circumscribe the powers of the president."
+    },
+    {
+        "word": "circumspect",
+        "meaning": "wary and unwilling to take risks",
+        "sentence": "She was circumspect in her decision to invest in the new venture."
+    },
+    {
+        "word": "clamorous",
+        "meaning": "making a loud and confused noise",
+        "sentence": "The clamorous crowd gathered outside the stadium."
+    },
+    {
+        "word": "clangor",
+        "meaning": "a loud, resonant sound",
+        "sentence": "The clangor of the bells could be heard throughout the village."
+    },
+    {
+        "word": "cloak",
+        "meaning": "to hide or disguise (something)",
+        "sentence": "He cloaked his true intentions behind a friendly smile."
+    },
+    {
+        "word": "compliance",
+        "meaning": "the action or fact of complying with a wish or command",
+        "sentence": "The factory was shut down due to non-compliance with safety regulations."
+    },
+    {
+        "word": "comply",
+        "meaning": "to act in accordance with a wish or command",
+        "sentence": "She agreed to comply with the court's ruling."
+    },
+    {
+        "word": "compunction",
+        "meaning": "a feeling of guilt or moral scruple that prevents or follows the doing of something bad",
+        "sentence": "He felt no compunction about cheating on the exam."
+    },
+    {
+        "word": "concomitant",
+        "meaning": "naturally accompanying or associated",
+        "sentence": "The drug's use carries a risk of concomitant side effects."
+    },
+    {
+        "word": "condone",
+        "meaning": "to accept and allow (behavior that is considered morally wrong or offensive) to continue",
+        "sentence": "The teacher could not condone such rude behavior in the classroom."
+    },
+    {
+        "word": "conducive",
+        "meaning": "making a certain situation or outcome likely or possible",
+        "sentence": "A quiet room is conducive to studying."
+    },
+    {
+        "word": "confer",
+        "meaning": "to grant or bestow (a title, degree, benefit, or right)",
+        "sentence": "The university will confer honorary degrees at the ceremony."
+    },
+    {
+        "word": "confound",
+        "meaning": "to cause surprise or confusion in (someone), especially by acting against their expectations",
+        "sentence": "The magician's tricks confounded the audience."
+    },
+    {
+        "word": "conjectural",
+        "meaning": "based on or involving conjecture; speculative",
+        "sentence": "His conclusions were highly conjectural, lacking solid evidence."
+    },
+    {
+        "word": "consensus",
+        "meaning": "general agreement",
+        "sentence": "There was a consensus among the board members to approve the new policy."
+    },
+    {
+        "word": "conspicuous",
+        "meaning": "standing out so as to be clearly visible",
+        "sentence": "The bright yellow car was conspicuous in the parking lot."
+    },
+    {
+        "word": "construe",
+        "meaning": "to interpret (a word or action) in a particular way",
+        "sentence": "His silence could be construed as agreement."
+    },
+    {
+        "word": "contentious",
+        "meaning": "causing or likely to cause an argument; controversial",
+        "sentence": "The new policy has been the subject of much contentious debate."
+    },
+    {
+        "word": "contend",
+        "meaning": "to struggle to surmount (a difficulty or danger)",
+        "sentence": "She had to contend with many obstacles to achieve her goals."
+    },
+    {
+        "word": "contingent",
+        "meaning": "subject to chance",
+        "sentence": "The success of the project is contingent on the approval of the budget."
+    },
+    {
+        "word": "contrite",
+        "meaning": "feeling or expressing remorse or penitence; affected by guilt",
+        "sentence": "She was contrite after realizing the harm her words had caused."
+    },
+    {
+        "word": "conundrum",
+        "meaning": "a confusing and difficult problem or question",
+        "sentence": "The math problem presented a challenging conundrum for the students."
+    },
+    {
+        "word": "conventional",
+        "meaning": "based on or in accordance with what is generally done or believed",
+        "sentence": "He chose to take a conventional approach to the problem."
+    },
+    {
+        "word": "converge",
+        "meaning": "to come together from different directions so as eventually to meet",
+        "sentence": "The two rivers converge at the base of the mountain."
+    },
+    {
+        "word": "convivial",
+        "meaning": "friendly, lively, and enjoyable",
+        "sentence": "The atmosphere at the party was convivial and relaxed."
+    },
+    {
+        "word": "copious",
+        "meaning": "abundant in supply or quantity",
+        "sentence": "She took copious notes during the lecture."
+    },
+    {
+        "word": "corroborate",
+        "meaning": "to confirm or give support to (a statement, theory, or finding)",
+        "sentence": "The witness's testimony corroborated the defendant's alibi."
+    },
+    {
+        "word": "cosmopolitan",
+        "meaning": "familiar with and at ease in many different countries and cultures",
+        "sentence": "She had a cosmopolitan upbringing, having lived in several countries."
+    },
+    {
+        "word": "covet",
+        "meaning": "to yearn to possess or have (something)",
+        "sentence": "He coveted his neighbor's new car."
+    },
+    {
+        "word": "covert",
+        "meaning": "not openly acknowledged or displayed",
+        "sentence": "The spy's mission was to gather covert intelligence."
+    },
+    {
+        "word": "craven",
+        "meaning": "contemptibly lacking in courage; cowardly",
+        "sentence": "His craven refusal to confront the problem only made matters worse."
+    },
+    {
+        "word": "crestfallen",
+        "meaning": "sad and disappointed",
+        "sentence": "She was crestfallen when she didn't get the job."
+    },
+    {
+        "word": "culminate",
+        "meaning": "to reach a climax or point of highest development",
+        "sentence": "The year-long project culminated in a successful presentation."
+    },
+    {
+        "word": "cunning",
+        "meaning": "having or showing skill in achieving one's ends by deceit or evasion",
+        "sentence": "The fox is often depicted as a cunning animal in folklore."
+    },
+    {
+        "word": "curtail",
+        "meaning": "to reduce in extent or quantity; impose a restriction on",
+        "sentence": "The company decided to curtail its spending due to budget cuts."
+    },
+    {
+        "word": "cynical",
+        "meaning": "believing that people are motivated by self-interest; distrustful of human sincerity or integrity",
+        "sentence": "He was cynical about the politician's promises."
+    },
+    {
+        "word": "daunting",
+        "meaning": "seeming difficult to deal with in anticipation; intimidating",
+        "sentence": "The task of cleaning the entire house seemed daunting at first."
+    },
+    {
+        "word": "dawdle",
+        "meaning": "to waste time; be slow",
+        "sentence": "Stop dawdling and finish your homework!"
+    },
+    {
+        "word": "dearth",
+        "meaning": "a scarcity or lack of something",
+        "sentence": "There was a dearth of fresh water during the drought."
+    },
+    {
+        "word": "debunk",
+        "meaning": "to expose the falseness or hollowness of (a myth, idea, or belief)",
+        "sentence": "The scientist worked to debunk the myths surrounding the new technology."
+    },
+    {
+        "word": "decadent",
+        "meaning": "characterized by or reflecting a state of moral or cultural decline",
+        "sentence": "The once-great empire fell into a decadent decline."
+    },
+    {
+        "word": "decorum",
+        "meaning": "behavior in keeping with good taste and propriety",
+        "sentence": "The children were taught to behave with decorum at formal events."
+    },
+    {
+        "word": "denote",
+        "meaning": "to be a sign of; indicate",
+        "sentence": "The red flag denoted a warning of danger ahead."
+    },
+    {
+        "word": "deride",
+        "meaning": "to express contempt for; ridicule",
+        "sentence": "He was derided by his peers for his unusual ideas."
+    },
+    {
+        "word": "discrepancy",
+        "meaning": "a lack of compatibility or similarity between two or more facts",
+        "sentence": "There was a discrepancy between the two reports that needed to be resolved."
+    },
+    {
+        "word": "discrete",
+        "meaning": "individually separate and distinct",
+        "sentence": "The data was divided into discrete categories for analysis."
+    },
+    {
+        "word": "discretionary",
+        "meaning": "available for use at the discretion of the user",
+        "sentence": "The manager has discretionary power to approve or deny the request."
+    },
+    {
+        "word": "disingenuous",
+        "meaning": "not candid or sincere, typically by pretending that one knows less about something than one really does",
+        "sentence": "Her apology seemed disingenuous, as if she didn't really mean it."
+    },
+    {
+        "word": "disinterested",
+        "meaning": "not influenced by considerations of personal advantage",
+        "sentence": "The judge was known for his disinterested and fair decisions."
+    },
+    {
+        "word": "disjointed",
+        "meaning": "lacking a coherent sequence or connection",
+        "sentence": "The disjointed speech was difficult for the audience to follow."
+    },
+    {
+        "word": "dismiss",
+        "meaning": "to order or allow to leave; send away",
+        "sentence": "The teacher dismissed the class early."
+    },
+    {
+        "word": "disparage",
+        "meaning": "to regard or represent as being of little worth",
+        "sentence": "He never missed an opportunity to disparage his competitors."
+    },
+    {
+        "word": "disparate",
+        "meaning": "essentially different in kind; not allowing comparison",
+        "sentence": "The two cultures were so disparate that communication was difficult."
+    },
+    {
+        "word": "distill",
+        "meaning": "to extract the essential meaning or most important aspects of",
+        "sentence": "The professor was able to distill the complex theory into a simple explanation."
+    },
+    {
+        "word": "distinct",
+        "meaning": "recognizably different in nature from something else of a similar type",
+        "sentence": "The twins have distinct personalities despite their identical appearance."
+    },
+    {
+        "word": "distort",
+        "meaning": "to pull or twist out of shape",
+        "sentence": "The funhouse mirrors distorted their reflections."
+    },
+    {
+        "word": "divergent",
+        "meaning": "tending to be different or develop in different directions",
+        "sentence": "The two species have evolved along divergent paths."
+    },
+    {
+        "word": "divest",
+        "meaning": "to deprive (someone) of power, rights, or possessions",
+        "sentence": "The new regulations will divest the company of its monopoly."
+    },
+    {
+        "word": "divulge",
+        "meaning": "to make known (private or sensitive information)",
+        "sentence": "She refused to divulge the details of their conversation."
+    },
+    {
+        "word": "dogged",
+        "meaning": "having or showing tenacity and grim persistence",
+        "sentence": "His dogged determination helped him overcome the challenges."
+    },
+    {
+        "word": "dogmatic",
+        "meaning": "inclined to lay down principles as incontrovertibly true",
+        "sentence": "The professor's dogmatic approach to teaching left little room for discussion."
+    },
+    {
+        "word": "dormant",
+        "meaning": "(of an animal) having normal physical functions suspended or slowed down for a period of time; in or as if in a deep sleep",
+        "sentence": "The volcano has been dormant for centuries."
+    },
+    {
+        "word": "dubious",
+        "meaning": "hesitating or doubting",
+        "sentence": "She was dubious about the effectiveness of the new drug."
+    },
+    {
+        "word": "dupe",
+        "meaning": "to deceive; trick",
+        "sentence": "The scam artist duped him into giving away his savings."
+    },
+    {
+        "word": "duplicitous",
+        "meaning": "deceitful",
+        "sentence": "Her duplicitous nature made it difficult to trust her."
+    },
+    {
+        "word": "earnest",
+        "meaning": "resulting from or showing sincere and intense conviction",
+        "sentence": "He was earnest in his efforts to help the community."
+    },
+    {
+        "word": "ebullient",
+        "meaning": "cheerful and full of energy",
+        "sentence": "The ebullient crowd cheered as the band took the stage."
+    },
+    {
+        "word": "eccentric",
+        "meaning": "(of a person or their behavior) unconventional and slightly strange",
+        "sentence": "The artist was known for his eccentric style."
+    },
+    {
+        "word": "eclectic",
+        "meaning": "deriving ideas, style, or taste from a broad and diverse range of sources",
+        "sentence": "Her music taste is eclectic, ranging from classical to modern rock."
+    },
+    {
+        "word": "edify",
+        "meaning": "to instruct or improve (someone) morally or intellectually",
+        "sentence": "The book was intended to edify its readers on the importance of kindness."
+    },
+    {
+        "word": "efficacious",
+        "meaning": "(of something inanimate or abstract) successful in producing a desired or intended result; effective",
+        "sentence": "The treatment was efficacious in reducing the symptoms of the disease."
+    },
+    {
+        "word": "egregious",
+        "meaning": "outstandingly bad; shocking",
+        "sentence": "His egregious mistake cost the company millions of dollars."
+    },
+    {
+        "word": "elated",
+        "meaning": "make (someone) ecstatically happy",
+        "sentence": "She was elated to hear that she had won the competition."
+    },
+    {
+        "word": "elicit",
+        "meaning": "to evoke or draw out (a reaction, answer, or fact) from someone",
+        "sentence": "The teacher's question was designed to elicit thoughtful responses."
+    },
+    {
+        "word": "elucidate",
+        "meaning": "to make (something) clear; explain",
+        "sentence": "The guide used diagrams to elucidate the complex process."
+    },
+    {
+        "word": "elusive",
+        "meaning": "difficult to find, catch, or achieve",
+        "sentence": "Success proved elusive for the young entrepreneur."
+    },
+    {
+        "word": "embellish",
+        "meaning": "to make (something) more attractive by the addition of decorative details or features",
+        "sentence": "She embellished her story with vivid details."
+    },
+    {
+        "word": "empirical",
+        "meaning": "based on, concerned with, or verifiable by observation or experience rather than theory or pure logic",
+        "sentence": "The scientist's conclusions were based on empirical evidence."
+    },
+    {
+        "word": "emulate",
+        "meaning": "to match or surpass (a person or achievement), typically by imitation",
+        "sentence": "She hoped to emulate her mother's success as a doctor."
+    },
+    {
+        "word": "enchant",
+        "meaning": "to fill (someone) with great delight; charm",
+        "sentence": "The beautiful scenery enchanted the travelers."
+    },
+    {
+        "word": "encomium",
+        "meaning": "a speech or piece of writing that praises someone or something highly",
+        "sentence": "The CEO received an encomium for his contributions to the industry."
+    },
+    {
+        "word": "encroach",
+        "meaning": "to intrude on (a person's territory or a thing considered to be a right)",
+        "sentence": "The new construction plans encroach on the protected wildlife area."
+    },
+    {
+        "word": "endemic",
+        "meaning": "(of a disease or condition) regularly found among particular people or in a certain area",
+        "sentence": "Malaria is endemic in many tropical regions."
+    },
+    {
+        "word": "enervate",
+        "meaning": "to cause (someone) to feel drained of energy or vitality; weaken",
+        "sentence": "The long hike through the mountains enervated the group."
+    },
+    {
+        "word": "engender",
+        "meaning": "to cause or give rise to (a feeling, situation, or condition)",
+        "sentence": "The policy change is likely to engender controversy."
+    },
+    {
+        "word": "enigma",
+        "meaning": "a person or thing that is mysterious, puzzling, or difficult to understand",
+        "sentence": "Her sudden disappearance remains an enigma."
+    },
+    {
+        "word": "enigmatic",
+        "meaning": "difficult to interpret or understand; mysterious",
+        "sentence": "The artist's enigmatic smile has puzzled viewers for centuries."
+    },
+    {
+        "word": "enmity",
+        "meaning": "the state or feeling of being actively opposed or hostile to someone or something",
+        "sentence": "There was a long-standing enmity between the two families."
+    },
+    {
+        "word": "entrench",
+        "meaning": "to establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely",
+        "sentence": "The company's position in the market is firmly entrenched."
+    },
+    {
+        "word": "ephemeral",
+        "meaning": "lasting for a very short time",
+        "sentence": "The beauty of the sunset was ephemeral, fading within minutes."
+    },
+    {
+        "word": "equanimity",
+        "meaning": "mental calmness, composure, and evenness of temper, especially in a difficult situation",
+        "sentence": "She maintained her equanimity even in the face of criticism."
+    },
+    {
+        "word": "equitable",
+        "meaning": "fair and impartial",
+        "sentence": "The judge's ruling was seen as equitable by both parties."
+    },
+    {
+        "word": "equivocal",
+        "meaning": "open to more than one interpretation; ambiguous",
+        "sentence": "Her answer was equivocal, leaving us unsure of her true feelings."
+    },
+    {
+        "word": "equivocate",
+        "meaning": "to use ambiguous language so as to conceal the truth or avoid committing oneself",
+        "sentence": "The politician was known to equivocate when faced with difficult questions."
+    },
+    {
+        "word": "eradicate",
+        "meaning": "to destroy completely; put an end to",
+        "sentence": "The government launched a campaign to eradicate poverty."
+    },
+    {
+        "word": "erratic",
+        "meaning": "not even or regular in pattern or movement; unpredictable",
+        "sentence": "His erratic driving caused concern among other motorists."
+    },
+    {
+        "word": "erudite",
+        "meaning": "having or showing great knowledge or learning",
+        "sentence": "The professor was an erudite scholar in his field."
+    },
+    {
+        "word": "eschew",
+        "meaning": "to deliberately avoid using; abstain from",
+        "sentence": "He decided to eschew social media to focus on his studies."
+    },
+    {
+        "word": "esoteric",
+        "meaning": "intended for or likely to be understood by only a small number of people with a specialized knowledge or interest",
+        "sentence": "The book is filled with esoteric knowledge that only experts will understand."
+    },
+    {
+        "word": "espouse",
+        "meaning": "to adopt or support (a cause, belief, or way of life)",
+        "sentence": "She espoused the values of honesty and integrity."
+    },
+    {
+        "word": "estranged",
+        "meaning": "no longer close or affectionate to someone; alienated",
+        "sentence": "He became estranged from his family after the argument."
+    },
+    {
+        "word": "ethereal",
+        "meaning": "extremely delicate and light in a way that seems too perfect for this world",
+        "sentence": "The dancer's movements were graceful and ethereal."
+    },
+    {
+        "word": "eulogy",
+        "meaning": "a speech or piece of writing that praises someone or something highly, typically someone who has just died",
+        "sentence": "The eulogy was a beautiful tribute to her life."
+    },
+    {
+        "word": "euphemism",
+        "meaning": "a mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing",
+        "sentence": "He used a euphemism to avoid mentioning the harsh reality of the situation."
+    },
+    {
+        "word": "euphoria",
+        "meaning": "a feeling or state of intense excitement and happiness",
+        "sentence": "Winning the championship brought a sense of euphoria to the team."
+    },
+    {
+        "word": "evade",
+        "meaning": "to escape or avoid, especially by cleverness or trickery",
+        "sentence": "He managed to evade capture by hiding in the forest."
+    },
+    {
+        "word": "evanescent",
+        "meaning": "soon passing out of sight, memory, or existence; quickly fading or disappearing",
+        "sentence": "The rainbow was evanescent, vanishing as quickly as it appeared."
+    },
+    {
+        "word": "evasive",
+        "meaning": "tending to avoid commitment or self-revelation, especially by responding only indirectly",
+        "sentence": "Her evasive answers made us suspect she was hiding something."
+    },
+    {
+        "word": "exacerbate",
+        "meaning": "to make (a problem, bad situation, or negative feeling) worse",
+        "sentence": "The new law could exacerbate the problem of poverty."
+    },
+    {
+        "word": "exacting",
+        "meaning": "making great demands on one's skill, attention, or other resources",
+        "sentence": "The job was exacting, requiring a high level of precision and dedication."
+    },
+    {
+        "word": "exalt",
+        "meaning": "to hold (someone or something) in very high regard; think or speak very highly of",
+        "sentence": "The mayor exalted the firefighters for their bravery."
+    },
+    {
+        "word": "exculpate",
+        "meaning": "to show or declare that (someone) is not guilty of wrongdoing",
+        "sentence": "The evidence served to exculpate the accused."
+    },
+    {
+        "word": "exemplar",
+        "meaning": "a person or thing serving as a typical example or excellent model",
+        "sentence": "She is an exemplar of hard work and dedication."
+    },
+    {
+        "word": "exigent",
+        "meaning": "pressing; demanding",
+        "sentence": "The exigent demands of the job required her full attention."
+    },
+    {
+        "word": "exonerate",
+        "meaning": "to absolve (someone) from blame for a fault or wrongdoing, especially after due consideration of the case",
+        "sentence": "The DNA evidence exonerated the man who had been wrongly accused."
+    },
+    {
+        "word": "exotic",
+        "meaning": "originating in or characteristic of a distant foreign country",
+        "sentence": "She admired the exotic plants in the botanical garden."
+    },
+    {
+        "word": "expedient",
+        "meaning": "(of an action) convenient and practical although possibly improper or immoral",
+        "sentence": "He chose the most expedient method of getting the job done, even though it wasn't the most ethical."
+    },
+    {
+        "word": "explicit",
+        "meaning": "stated clearly and in detail, leaving no room for confusion or doubt",
+        "sentence": "The instructions were explicit, so everyone knew what was expected."
+    },
+    {
+        "word": "exploitative",
+        "meaning": "making use of a situation or treating others unfairly in order to gain an advantage or benefit",
+        "sentence": "The company was accused of exploitative labor practices."
+    },
+    {
+        "word": "fastidious",
+        "meaning": "very attentive to and concerned about accuracy and detail",
+        "sentence": "The artist was fastidious in his attention to detail."
+    },
+    {
+        "word": "fathom",
+        "meaning": "to understand (a difficult problem or an enigmatic person) after much thought",
+        "sentence": "She couldn't fathom why he would make such a decision."
+    },
+    {
+        "word": "feckless",
+        "meaning": "lacking initiative or strength of character; irresponsible",
+        "sentence": "His feckless behavior at work eventually led to his dismissal."
+    },
+    {
+        "word": "fecund",
+        "meaning": "producing or capable of producing an abundance of offspring or new growth; fertile",
+        "sentence": "The fecund soil of the region is ideal for farming."
+    },
+    {
+        "word": "feeble",
+        "meaning": "lacking physical strength, especially as a result of age or illness",
+        "sentence": "After the illness, he felt too feeble to get out of bed."
+    },
+    {
+        "word": "fervid",
+        "meaning": "intensely enthusiastic or passionate, especially to an excessive degree",
+        "sentence": "The politician gave a fervid speech that energized the crowd."
+    },
+    {
+        "word": "fester",
+        "meaning": "(of a wound or sore) become septic; suppurate",
+        "sentence": "If you don't treat the cut properly, it could fester."
+    },
+    {
+        "word": "fickle",
+        "meaning": "changing frequently, especially as regards one's loyalties or affections",
+        "sentence": "The public is fickle, and tastes in fashion can change overnight."
+    },
+    {
+        "word": "flamboyant",
+        "meaning": "tending to attract attention because of their exuberance, confidence, and stylishness",
+        "sentence": "He was known for his flamboyant dress sense and bold personality."
+    },
+    {
+        "word": "florid",
+        "meaning": "having a red or flushed complexion; elaborately or excessively intricate or complicated",
+        "sentence": "His florid writing style was not to everyone's taste."
+    },
+    {
+        "word": "flout",
+        "meaning": "to openly disregard (a rule, law, or convention)",
+        "sentence": "He continued to flout the rules despite repeated warnings."
+    },
+    {
+        "word": "foolhardy",
+        "meaning": "recklessly bold or rash",
+        "sentence": "It was foolhardy of him to drive so fast in such bad weather."
+    },
+    {
+        "word": "foreseeable",
+        "meaning": "able to be foreseen or predicted",
+        "sentence": "There are no foreseeable problems with the new system."
+    },
+    {
+        "word": "forestall",
+        "meaning": "to prevent or obstruct (an anticipated event or action) by taking action ahead of time",
+        "sentence": "They worked to forestall the spread of the disease."
+    },
+    {
+        "word": "forsake",
+        "meaning": "to abandon (someone or something)",
+        "sentence": "He decided to forsake his career to focus on his family."
+    },
+    {
+        "word": "fortuitous",
+        "meaning": "happening by a lucky chance; fortunate",
+        "sentence": "The timing of their meeting was entirely fortuitous."
+    },
+    {
+        "word": "foster",
+        "meaning": "to encourage or promote the development of (something, typically something regarded as good)",
+        "sentence": "The school aims to foster a sense of community among its students."
+    },
+    {
+        "word": "fractious",
+        "meaning": "(typically of children) irritable and quarrelsome",
+        "sentence": "The fractious child was difficult to calm down."
+    },
+    {
+        "word": "frivolous",
+        "meaning": "not having any serious purpose or value",
+        "sentence": "She was criticized for spending money on frivolous items."
+    },
+    {
+        "word": "gainsay",
+        "meaning": "to deny or contradict (a fact or statement)",
+        "sentence": "It's hard to gainsay the benefits of a good education."
+    },
+    {
+        "word": "galvanize",
+        "meaning": "to shock or excite (someone) into taking action",
+        "sentence": "The threat of layoffs galvanized the employees to work harder."
+    },
+    {
+        "word": "garish",
+        "meaning": "obtrusively bright and showy; lurid",
+        "sentence": "The room was decorated in garish colors that clashed horribly."
+    },
+    {
+        "word": "garrulous",
+        "meaning": "excessively talkative, especially on trivial matters",
+        "sentence": "The garrulous old man told stories that lasted for hours."
+    },
+    {
+        "word": "gawky",
+        "meaning": "nervously awkward and ungainly",
+        "sentence": "As a teenager, he was tall and gawky, with big hands and feet."
+    },
+    {
+        "word": "glib",
+        "meaning": "(of words or the person speaking them) fluent and voluble but insincere and shallow",
+        "sentence": "His glib remarks about the crisis only made the situation worse."
+    },
+    {
+        "word": "glum",
+        "meaning": "looking or feeling dejected; morose",
+        "sentence": "He felt glum after his team lost the championship."
+    },
+    {
+        "word": "gratify",
+        "meaning": "to give (someone) pleasure or satisfaction",
+        "sentence": "The praise he received gratified him greatly."
+    },
+    {
+        "word": "gregarious",
+        "meaning": "(of a person) fond of company; sociable",
+        "sentence": "She was a gregarious person who loved hosting parties."
+    },
+    {
+        "word": "guile",
+        "meaning": "sly or cunning intelligence",
+        "sentence": "The spy used his guile to infiltrate the enemy camp."
+    },
+    {
+        "word": "hackneyed",
+        "meaning": "(of a phrase or idea) lacking significance through having been overused; unoriginal and trite",
+        "sentence": "The hackneyed expressions in the movie's dialogue bored the audience."
+    },
+    {
+        "word": "harangue",
+        "meaning": "a lengthy and aggressive speech",
+        "sentence": "The politician's harangue against corruption lasted for nearly an hour."
+    },
+    {
+        "word": "harbinger",
+        "meaning": "a person or thing that announces or signals the approach of another",
+        "sentence": "The crocus is a harbinger of spring."
+    },
+    {
+        "word": "haphazard",
+        "meaning": "lacking any obvious principle of organization",
+        "sentence": "The books were arranged in a haphazard manner on the shelf."
+    },
+    {
+        "word": "hedonism",
+        "meaning": "the pursuit of pleasure; sensual self-indulgence",
+        "sentence": "The novel's protagonist lives a life of hedonism, seeking pleasure in all things."
+    },
+    {
+        "word": "heed",
+        "meaning": "to pay attention to; take notice of",
+        "sentence": "They failed to heed the warning and suffered the consequences."
+    },
+    {
+        "word": "heterogeneous",
+        "meaning": "diverse in character or content",
+        "sentence": "The population of the city is very heterogeneous, with people from many different cultures."
+    },
+    {
+        "word": "hiatus",
+        "meaning": "a pause or gap in a sequence, series, or process",
+        "sentence": "The band is on hiatus while the lead singer recovers from surgery."
+    },
+    {
+        "word": "hinder",
+        "meaning": "to create difficulties for (someone or something), resulting in delay or obstruction",
+        "sentence": "His injury will hinder his ability to play in the game."
+    },
+    {
+        "word": "homogeneous",
+        "meaning": "of the same kind; alike",
+        "sentence": "The village has a fairly homogeneous population."
+    },
+    {
+        "word": "humdrum",
+        "meaning": "lacking excitement or variety; dull; monotonous",
+        "sentence": "She grew tired of the humdrum routine of her job."
+    },
+    {
+        "word": "implacable",
+        "meaning": "unable to be placated",
+        "sentence": "Despite his apologies, she remained implacable."
+    },
+    {
+        "word": "implicit",
+        "meaning": "implied though not plainly expressed",
+        "sentence": "There was an implicit agreement between the two parties."
+    },
+    {
+        "word": "implore",
+        "meaning": "to beg someone earnestly or desperately to do something",
+        "sentence": "She implored him to stay and not leave her alone."
+    },
+    {
+        "word": "improvise",
+        "meaning": "to create and perform (music, drama, or verse) spontaneously or without preparation",
+        "sentence": "The actor had to improvise when he forgot his lines."
+    },
+    {
+        "word": "incessant",
+        "meaning": "(of something regarded as unpleasant) continuing without pause or interruption",
+        "sentence": "The incessant noise from the construction site was unbearable."
+    },
+    {
+        "word": "incipient",
+        "meaning": "in an initial stage; beginning to happen or develop",
+        "sentence": "The project is still in its incipient stages."
+    },
+    {
+        "word": "incongruous",
+        "meaning": "not in harmony or keeping with the surroundings or other aspects of something",
+        "sentence": "The bright modern decor was incongruous with the old-fashioned architecture of the building."
+    },
+    {
+        "word": "incredulous",
+        "meaning": "(of a person or their manner) unwilling or unable to believe something",
+        "sentence": "She was incredulous when she heard the news."
+    },
+    {
+        "word": "incumbent",
+        "meaning": "necessary for (someone) as a duty or responsibility",
+        "sentence": "It is incumbent upon all citizens to vote in the election."
+    },
+    {
+        "word": "indefatigable",
+        "meaning": "(of a person or their efforts) persisting tirelessly",
+        "sentence": "Her indefatigable spirit kept her going despite the challenges."
+    },
+    {
+        "word": "indolent",
+        "meaning": "wanting to avoid activity or exertion; lazy",
+        "sentence": "His indolent nature prevented him from achieving much in life."
+    },
+    {
+        "word": "industrious",
+        "meaning": "diligent and hard-working",
+        "sentence": "She is an industrious student who always completes her assignments on time."
+    },
+    {
+        "word": "inert",
+        "meaning": "lacking the ability or strength to move",
+        "sentence": "The inert body of the animal was found by the roadside."
+    },
+    {
+        "word": "inexorable",
+        "meaning": "impossible to stop or prevent",
+        "sentence": "The inexorable advance of technology has changed the world."
+    },
+    {
+        "word": "infallible",
+        "meaning": "incapable of making mistakes or being wrong",
+        "sentence": "No one is infallible, and everyone makes mistakes sometimes."
+    },
+    {
+        "word": "infamous",
+        "meaning": "well known for some bad quality or deed",
+        "sentence": "The city is infamous for its high crime rate."
+    },
+    {
+        "word": "infer",
+        "meaning": "to deduce or conclude (information) from evidence and reasoning rather than from explicit statements",
+        "sentence": "From the data, we can infer that the company's profits will continue to decline."
+    },
+    {
+        "word": "ingenious",
+        "meaning": "(of a person) clever, original, and inventive",
+        "sentence": "The engineer came up with an ingenious solution to the problem."
+    },
+    {
+        "word": "ingenuous",
+        "meaning": "(of a person or action) innocent and unsuspecting",
+        "sentence": "Her ingenuous nature made her an easy target for scammers."
+    },
+    {
+        "word": "inhibit",
+        "meaning": "to hinder, restrain, or prevent (an action or process)",
+        "sentence": "The fear of failure can inhibit people from trying new things."
+    },
+    {
+        "word": "inimical",
+        "meaning": "tending to obstruct or harm",
+        "sentence": "His actions were inimical to the interests of the company."
+    },
+    {
+        "word": "innocuous",
+        "meaning": "not harmful or offensive",
+        "sentence": "The comment was meant to be innocuous, but it upset her nonetheless."
+    },
+    {
+        "word": "inscrutable",
+        "meaning": "impossible to understand or interpret",
+        "sentence": "His inscrutable expression made it hard to know what he was thinking."
+    },
+    {
+        "word": "insipid",
+        "meaning": "lacking flavor; lacking vigor or interest",
+        "sentence": "The soup was insipid and needed more seasoning."
+    },
+    {
+        "word": "insular",
+        "meaning": "ignorant of or uninterested in cultures, ideas, or peoples outside one's own experience",
+        "sentence": "His insular views made it difficult for him to relate to others."
+    },
+    {
+        "word": "intelligible",
+        "meaning": "able to be understood; comprehensible",
+        "sentence": "The instructions were barely intelligible due to the poor translation."
+    },
+    {
+        "word": "interminable",
+        "meaning": "endless (often used hyperbolically)",
+        "sentence": "The meeting seemed interminable, lasting well into the evening."
+    },
+    {
+        "word": "intransigent",
+        "meaning": "unwilling or refusing to change one's views or to agree about something",
+        "sentence": "The negotiations stalled due to the intransigent stance of both parties."
+    },
+    {
+        "word": "intrepid",
+        "meaning": "fearless; adventurous (often used for rhetorical or humorous effect)",
+        "sentence": "The intrepid explorers ventured deep into the uncharted jungle."
+    },
+    {
+        "word": "intrinsic",
+        "meaning": "belonging naturally; essential",
+        "sentence": "The intrinsic value of the diamond made it highly sought after."
+    },
+    {
+        "word": "inundate",
+        "meaning": "to overwhelm (someone) with things or people to be dealt with",
+        "sentence": "She was inundated with emails after her promotion was announced."
+    },
+    {
+        "word": "inure",
+        "meaning": "to accustom (someone) to something, especially something unpleasant",
+        "sentence": "The soldiers were inured to the harsh conditions of the battlefield."
+    },
+    {
+        "word": "inveterate",
+        "meaning": "having a particular habit, activity, or interest that is long-established and unlikely to change",
+        "sentence": "He was an inveterate gambler, despite the many losses he had suffered."
+    },
+    {
+        "word": "invidious",
+        "meaning": "(of an action or situation) likely to arouse or incur resentment or anger in others",
+        "sentence": "The manager's invidious comparisons between employees caused tension in the office."
+    },
+    {
+        "word": "inviolable",
+        "meaning": "never to be broken, infringed, or dishonored",
+        "sentence": "The treaty was considered inviolable by both sides."
+    },
+    {
+        "word": "irascible",
+        "meaning": "having or showing a tendency to be easily angered",
+        "sentence": "The irascible old man was known for his quick temper."
+    },
+    {
+        "word": "irksome",
+        "meaning": "irritating; annoying",
+        "sentence": "The constant noise from the construction site was irksome."
+    },
+    {
+        "word": "irreverent",
+        "meaning": "showing a lack of respect for people or things that are generally taken seriously",
+        "sentence": "The comedian's irreverent jokes offended some members of the audience."
+    },
+    {
+        "word": "jettison",
+        "meaning": "to throw or drop (something) from an aircraft or ship",
+        "sentence": "The crew had to jettison some of the cargo to lighten the load."
+    },
+    {
+        "word": "judicious",
+        "meaning": "having, showing, or done with good judgment or sense",
+        "sentence": "Her judicious use of resources helped the company avoid bankruptcy."
+    },
+    {
+        "word": "laconic",
+        "meaning": "(of a person, speech, or style of writing) using very few words",
+        "sentence": "His laconic reply suggested that he was not interested in the conversation."
+    },
+    {
+        "word": "largesse",
+        "meaning": "generosity in bestowing money or gifts upon others",
+        "sentence": "The charity was grateful for the largesse of its donors."
+    },
+    {
+        "word": "latent",
+        "meaning": "(of a quality or state) existing but not yet developed or manifest; hidden or concealed",
+        "sentence": "The disease was latent in his system for years before it showed symptoms."
+    },
+    {
+        "word": "laudable",
+        "meaning": "(of an action, idea, or goal) deserving praise and commendation",
+        "sentence": "Her efforts to improve education were laudable."
+    },
+    {
+        "word": "lionize",
+        "meaning": "to give a lot of public attention and approval to (someone); treat as a celebrity",
+        "sentence": "The media tends to lionize successful athletes."
+    },
+    {
+        "word": "loquacious",
+        "meaning": "tending to talk a great deal; talkative",
+        "sentence": "The loquacious hostess made sure every guest felt welcome."
+    },
+    {
+        "word": "lucid",
+        "meaning": "expressed clearly; easy to understand",
+        "sentence": "Her lucid explanation of the complex topic impressed the audience."
+    },
+    {
+        "word": "lurid",
+        "meaning": "very vivid in color, especially so as to create an unpleasantly harsh or unnatural effect",
+        "sentence": "The lurid details of the crime were splashed across the front page."
+    },
+    {
+        "word": "manifest",
+        "meaning": "clear or obvious to the eye or mind",
+        "sentence": "His disappointment was manifest in his expression."
+    },
+    {
+        "word": "manifold",
+        "meaning": "many and various",
+        "sentence": "The benefits of the new policy are manifold."
+    },
+    {
+        "word": "marginalize",
+        "meaning": "to treat (a person, group, or concept) as insignificant or peripheral",
+        "sentence": "The new policies marginalize the needs of the poor."
+    },
+    {
+        "word": "maudlin",
+        "meaning": "self-pityingly or tearfully sentimental, often through drunkenness",
+        "sentence": "The movie was criticized for its maudlin sentimentality."
+    },
+    {
+        "word": "maverick",
+        "meaning": "an unorthodox or independent-minded person",
+        "sentence": "He was considered a maverick in the field of science."
+    },
+    {
+        "word": "melancholy",
+        "meaning": "a feeling of pensive sadness, typically with no obvious cause",
+        "sentence": "The rainy weather added to her sense of melancholy."
+    },
+    {
+        "word": "mendacity",
+        "meaning": "untruthfulness",
+        "sentence": "The politician's mendacity was exposed by the investigative journalist."
+    },
+    {
+        "word": "mercurial",
+        "meaning": "(of a person) subject to sudden or unpredictable changes of mood or mind",
+        "sentence": "His mercurial temperament made him difficult to work with."
+    },
+    {
+        "word": "meticulous",
+        "meaning": "showing great attention to detail; very careful and precise",
+        "sentence": "She was meticulous in her preparation for the presentation."
+    },
+    {
+        "word": "misanthropic",
+        "meaning": "having or showing a dislike of other people; unsociable",
+        "sentence": "The misanthropic writer lived alone in a cabin in the woods."
+    },
+    {
+        "word": "modish",
+        "meaning": "conforming to or following what is currently popular and fashionable",
+        "sentence": "The restaurant's decor was modish and trendy."
+    },
+    {
+        "word": "momentary",
+        "meaning": "lasting for a very short time",
+        "sentence": "She felt a momentary pang of guilt after the argument."
+    },
+    {
+        "word": "monotonous",
+        "meaning": "dull, tedious, and repetitious; lacking in variety and interest",
+        "sentence": "The monotonous routine of her job made her long for a change."
+    },
+    {
+        "word": "morose",
+        "meaning": "sullen and ill-tempered",
+        "sentence": "He became morose after the breakup and didn't talk to anyone for days."
+    },
+    {
+        "word": "mundane",
+        "meaning": "lacking interest or excitement; dull",
+        "sentence": "She longed for adventure and excitement beyond her mundane existence."
+    },
+    {
+        "word": "munificent",
+        "meaning": "more generous than is usual or necessary",
+        "sentence": "The millionaire was known for his munificent donations to charity."
+    },
+    {
+        "word": "nascent",
+        "meaning": "(especially of a process or organization) just coming into existence and beginning to display signs of future potential",
+        "sentence": "The nascent technology promises to revolutionize the industry."
+    },
+    {
+        "word": "nefarious",
+        "meaning": "(typically of an action or activity) wicked or criminal",
+        "sentence": "The police uncovered the gang's nefarious activities."
+    },
+    {
+        "word": "negligent",
+        "meaning": "failing to take proper care in doing something",
+        "sentence": "The company was found negligent in its handling of the hazardous materials."
+    },
+    {
+        "word": "noxious",
+        "meaning": "harmful, poisonous, or very unpleasant",
+        "sentence": "The noxious fumes from the factory made nearby residents sick."
+    },
+    {
+        "word": "obdurate",
+        "meaning": "stubbornly refusing to change one's opinion or course of action",
+        "sentence": "Despite the evidence, he remained obdurate in his denial of the facts."
+    },
+    {
+        "word": "obfuscate",
+        "meaning": "to render obscure, unclear, or unintelligible",
+        "sentence": "The lawyer's complex arguments only served to obfuscate the issue."
+    },
+    {
+        "word": "oblivious",
+        "meaning": "not aware of or not concerned about what is happening around one",
+        "sentence": "She was oblivious to the chaos happening around her."
+    },
+    {
+        "word": "obscure",
+        "meaning": "not discovered or known about; uncertain",
+        "sentence": "The origins of the ritual are obscure."
+    },
+    {
+        "word": "obsequious",
+        "meaning": "obedient or attentive to an excessive or servile degree",
+        "sentence": "The waiter's obsequious manner made the guests uncomfortable."
+    },
+    {
+        "word": "obstinate",
+        "meaning": "stubbornly refusing to change one's opinion or chosen course of action, despite attempts to persuade one to do so",
+        "sentence": "The obstinate child refused to eat his vegetables."
+    },
+    {
+        "word": "opaque",
+        "meaning": "not able to be seen through; not transparent",
+        "sentence": "The opaque glass blocked the view from outside."
+    },
+    {
+        "word": "opprobrium",
+        "meaning": "harsh criticism or censure",
+        "sentence": "The politician faced opprobrium for his controversial remarks."
+    },
+    {
+        "word": "ostensible",
+        "meaning": "stated or appearing to be true, but not necessarily so",
+        "sentence": "His ostensible reason for visiting was to check on the project, but he really wanted to see his old friend."
+    },
+    {
+        "word": "ostentatious",
+        "meaning": "characterized by vulgar or pretentious display; designed to impress or attract notice",
+        "sentence": "The ostentatious mansion was filled with expensive artwork and gold fixtures."
+    },
+    {
+        "word": "outstrip",
+        "meaning": "to move faster than and overtake (someone else)",
+        "sentence": "The new model outstrips its competitors in both speed and efficiency."
+    },
+    {
+        "word": "overwrought",
+        "meaning": "in a state of nervous excitement or anxiety",
+        "sentence": "She was too overwrought to speak after the accident."
+    },
+    {
+        "word": "palatable",
+        "meaning": "(of food or drink) pleasant to taste",
+        "sentence": "The chef prepared a palatable meal that everyone enjoyed."
+    },
+    {
+        "word": "palliate",
+        "meaning": "to make (a disease or its symptoms) less severe or unpleasant without removing the cause",
+        "sentence": "The medication can only palliate the symptoms, not cure the disease."
+    },
+    {
+        "word": "palpable",
+        "meaning": "able to be touched or felt",
+        "sentence": "There was a palpable tension in the room during the meeting."
+    },
+    {
+        "word": "peculiar",
+        "meaning": "strange or odd; unusual",
+        "sentence": "There was something peculiar about the way he was acting."
+    },
+    {
+        "word": "pedagogy",
+        "meaning": "the method and practice of teaching, especially as an academic subject or theoretical concept",
+        "sentence": "She studied pedagogy to become a more effective teacher."
+    },
+    {
+        "word": "pedant",
+        "meaning": "a person who is excessively concerned with minor details and rules or with displaying academic learning",
+        "sentence": "His tendency to be a pedant made him unpopular among his colleagues."
+    },
+    {
+        "word": "pedestrian",
+        "meaning": "lacking inspiration or excitement; dull",
+        "sentence": "The movie was criticized for its pedestrian plot."
+    },
+    {
+        "word": "pejorative",
+        "meaning": "expressing contempt or disapproval",
+        "sentence": "He used the word in a pejorative sense, implying that it was inferior."
+    },
+    {
+        "word": "pellucid",
+        "meaning": "translucently clear",
+        "sentence": "The pellucid waters of the lake were perfect for swimming."
+    },
+    {
+        "word": "penchant",
+        "meaning": "a strong or habitual liking for something or tendency to do something",
+        "sentence": "She has a penchant for collecting rare books."
+    },
+    {
+        "word": "penurious",
+        "meaning": "extremely poor; poverty-stricken",
+        "sentence": "The penurious family struggled to make ends meet."
+    },
+    {
+        "word": "perceptive",
+        "meaning": "having or showing sensitive insight",
+        "sentence": "His perceptive comments during the meeting impressed the boss."
+    },
+    {
+        "word": "perennial",
+        "meaning": "lasting or existing for a long or apparently infinite time; enduring or continually recurring",
+        "sentence": "Poverty is a perennial problem in the region."
+    },
+    {
+        "word": "perfidy",
+        "meaning": "deceitfulness; untrustworthiness",
+        "sentence": "His perfidy was discovered when the stolen documents were found in his possession."
+    },
+    {
+        "word": "perfunctory",
+        "meaning": "(of an action or gesture) carried out with a minimum of effort or reflection",
+        "sentence": "His perfunctory nod indicated that he wasn't really paying attention."
+    },
+    {
+        "word": "permeate",
+        "meaning": "to spread throughout (something); pervade",
+        "sentence": "The smell of fresh coffee permeated the air."
+    },
+    {
+        "word": "pernicious",
+        "meaning": "having a harmful effect, especially in a gradual or subtle way",
+        "sentence": "The pernicious effects of pollution on the environment are well documented."
+    },
+    {
+        "word": "pertinent",
+        "meaning": "relevant or applicable to a particular matter; apposite",
+        "sentence": "She asked several pertinent questions during the presentation."
+    },
+    {
+        "word": "pervasive",
+        "meaning": "(especially of an unwelcome influence or physical effect) spreading widely throughout an area or a group of people",
+        "sentence": "The pervasive smell of smoke made it difficult to breathe."
+    },
+    {
+        "word": "pessimistic",
+        "meaning": "tending to see the worst aspect of things or believe that the worst will happen",
+        "sentence": "He was pessimistic about the chances of success."
+    },
+    {
+        "word": "petulant",
+        "meaning": "(of a person or their manner) childishly sulky or bad-tempered",
+        "sentence": "The petulant child refused to apologize for his behavior."
+    },
+    {
+        "word": "phlegmatic",
+        "meaning": "(of a person) having an unemotional and stolidly calm disposition",
+        "sentence": "Her phlegmatic demeanor helped her stay calm during the crisis."
+    },
+    {
+        "word": "pious",
+        "meaning": "devoutly religious",
+        "sentence": "She was known for her pious devotion to her faith."
+    },
+    {
+        "word": "pithy",
+        "meaning": "(of language or style) concise and forcefully expressive",
+        "sentence": "His pithy remarks cut straight to the heart of the issue."
+    },
+    {
+        "word": "polemic",
+        "meaning": "a strong verbal or written attack on someone or something",
+        "sentence": "His polemic against the government's policies was widely read."
+    },
+    {
+        "word": "polemical",
+        "meaning": "relating to or involving strongly critical, controversial, or disputatious writing or speech",
+        "sentence": "The polemical article sparked a heated debate."
+    },
+    {
+        "word": "ponderous",
+        "meaning": "slow and clumsy because of great weight",
+        "sentence": "The ponderous elephant moved slowly through the jungle."
+    },
+    {
+        "word": "portend",
+        "meaning": "to be a sign or warning that (something, especially something momentous or calamitous) is likely to happen",
+        "sentence": "The dark clouds portend a storm."
+    },
+    {
+        "word": "posterity",
+        "meaning": "all future generations of people",
+        "sentence": "The monument was built to honor the heroes for posterity."
+    },
+    {
+        "word": "pragmatic",
+        "meaning": "dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations",
+        "sentence": "She took a pragmatic approach to solving the problem."
+    },
+    {
+        "word": "precipitate",
+        "meaning": "to cause (an event or situation, typically one that is bad or undesirable) to happen suddenly, unexpectedly, or prematurely",
+        "sentence": "The announcement precipitated a financial crisis."
+    },
+    {
+        "word": "precocious",
+        "meaning": "(of a child) having developed certain abilities or proclivities at an earlier age than usual",
+        "sentence": "The precocious child was reading chapter books by the age of five."
+    },
+    {
+        "word": "predicament",
+        "meaning": "a difficult, unpleasant, or embarrassing situation",
+        "sentence": "He found himself in a predicament after losing his wallet."
+    },
+    {
+        "word": "preeminent",
+        "meaning": "surpassing all others; very distinguished in some way",
+        "sentence": "She is preeminent in her field of research."
+    },
+    {
+        "word": "prodigal",
+        "meaning": "spending money or resources freely and recklessly; wastefully extravagant",
+        "sentence": "The prodigal son squandered his inheritance."
+    },
+    {
+        "word": "prodigious",
+        "meaning": "remarkably or impressively great in extent, size, or degree",
+        "sentence": "The scientist's prodigious intellect was widely admired."
+    },
+    {
+        "word": "profligate",
+        "meaning": "recklessly extravagant or wasteful in the use of resources",
+        "sentence": "The company's profligate spending led to its downfall."
+    },
+    {
+        "word": "profound",
+        "meaning": "(of a state, quality, or emotion) very great or intense",
+        "sentence": "His speech had a profound impact on the audience."
+    },
+    {
+        "word": "profuse",
+        "meaning": "(especially of something offered or discharged) exuberantly plentiful; abundant",
+        "sentence": "She offered her profuse apologies for the mistake."
+    },
+    {
+        "word": "prolific",
+        "meaning": "present in large numbers or quantities; plentiful",
+        "sentence": "The prolific author published several books each year."
+    },
+    {
+        "word": "prolix",
+        "meaning": "(of speech or writing) using or containing too many words; tediously lengthy",
+        "sentence": "His prolix style of writing made the book difficult to read."
+    },
+    {
+        "word": "prominent",
+        "meaning": "important; famous",
+        "sentence": "The actor was a prominent figure in the film industry."
+    },
+    {
+        "word": "propagate",
+        "meaning": "to spread and promote (an idea, theory, etc.) widely",
+        "sentence": "The organization works to propagate environmental awareness."
+    },
+    {
+        "word": "propensity",
+        "meaning": "an inclination or natural tendency to behave in a particular way",
+        "sentence": "She has a propensity for organizing things."
+    },
+    {
+        "word": "prophetic",
+        "meaning": "accurately describing or predicting what will happen in the future",
+        "sentence": "The prophetic words of the leader were remembered for years."
+    },
+    {
+        "word": "proponent",
+        "meaning": "a person who advocates a theory, proposal, or project",
+        "sentence": "He is a strong proponent of renewable energy."
+    },
+    {
+        "word": "propriety",
+        "meaning": "the state or quality of conforming to conventionally accepted standards of behavior or morals",
+        "sentence": "They questioned the propriety of his actions."
+    },
+    {
+        "word": "prosaic",
+        "meaning": "having the style or diction of prose; lacking poetic beauty",
+        "sentence": "His prosaic writing style was clear but lacked elegance."
+    },
+    {
+        "word": "proselytize",
+        "meaning": "to convert or attempt to convert (someone) from one religion, belief, or opinion to another",
+        "sentence": "The missionaries traveled to remote areas to proselytize."
+    },
+    {
+        "word": "protract",
+        "meaning": "to prolong",
+        "sentence": "The negotiations were protracted over several weeks."
+    },
+    {
+        "word": "providential",
+        "meaning": "occurring at a favorable time; opportune",
+        "sentence": "The providential arrival of the ambulance saved his life."
+    },
+    {
+        "word": "prowess",
+        "meaning": "skill or expertise in a particular activity or field",
+        "sentence": "The athlete's prowess on the field earned him many awards."
+    },
+    {
+        "word": "prudent",
+        "meaning": "acting with or showing care and thought for the future",
+        "sentence": "She made a prudent decision to save for retirement."
+    },
+    {
+        "word": "puerile",
+        "meaning": "childishly silly and trivial",
+        "sentence": "His puerile behavior annoyed the adults at the party."
+    },
+    {
+        "word": "punctilious",
+        "meaning": "showing great attention to detail or correct behavior",
+        "sentence": "She was punctilious about following the rules."
+    },
+    {
+        "word": "pungent",
+        "meaning": "having a sharply strong taste or smell",
+        "sentence": "The pungent smell of garlic filled the kitchen."
+    },
+    {
+        "word": "purgative",
+        "meaning": "strongly laxative in effect",
+        "sentence": "The doctor prescribed a purgative to cleanse the patient's system."
+    },
+    {
+        "word": "purport",
+        "meaning": "to appear or claim to be or do something, especially falsely; profess",
+        "sentence": "The document purports to be an official statement, but it's actually a forgery."
+    },
+    {
+        "word": "pusillanimous",
+        "meaning": "showing a lack of courage or determination; timid",
+        "sentence": "The pusillanimous leader avoided making tough decisions."
+    },
+    {
+        "word": "quandary",
+        "meaning": "a state of perplexity or uncertainty over what to do in a difficult situation",
+        "sentence": "He was in a quandary about whether to accept the job offer."
+    },
+    {
+        "word": "quash",
+        "meaning": "to reject or void, especially by legal procedure",
+        "sentence": "The court quashed the verdict due to lack of evidence."
+    },
+    {
+        "word": "quell",
+        "meaning": "to put an end to (a rebellion or other disorder), typically by the use of force",
+        "sentence": "The police were called in to quell the riot."
+    },
+    {
+        "word": "querulous",
+        "meaning": "complaining in a petulant or whining manner",
+        "sentence": "The querulous customer was not satisfied with any explanation."
+    },
+    {
+        "word": "quiescent",
+        "meaning": "in a state or period of inactivity or dormancy",
+        "sentence": "The volcano has been quiescent for years."
+    },
+    {
+        "word": "quintessential",
+        "meaning": "representing the most perfect or typical example of a quality or class",
+        "sentence": "He is the quintessential gentleman, always polite and considerate."
+    },
+    {
+        "word": "quirky",
+        "meaning": "characterized by peculiar or unexpected traits",
+        "sentence": "Her quirky sense of humor made her a popular guest at parties."
+    },
+    {
+        "word": "quixotic",
+        "meaning": "exceedingly idealistic; unrealistic and impractical",
+        "sentence": "His quixotic quest for the perfect job led him to turn down several good offers."
+    },
+    {
+        "word": "quotidian",
+        "meaning": "of or occurring every day; daily",
+        "sentence": "His quotidian routine included a morning jog and a cup of coffee."
+    },
+    {
+        "word": "radical",
+        "meaning": "relating to or affecting the fundamental nature of something; far-reaching or thorough",
+        "sentence": "The company made radical changes to its structure."
+    },
+    {
+        "word": "ramification",
+        "meaning": "a consequence of an action or event, especially when complex or unwelcome",
+        "sentence": "The ramifications of the decision were not immediately clear."
+    },
+    {
+        "word": "recondite",
+        "meaning": "(of a subject or knowledge) little known; abstruse",
+        "sentence": "The professor's lectures were filled with recondite references."
+    },
+    {
+        "word": "recrudescent",
+        "meaning": "breaking out again; renewing",
+        "sentence": "There has been a recrudescent interest in the artist's work."
+    },
+    {
+        "word": "refine",
+        "meaning": "to remove impurities or unwanted elements from (a substance), typically as part of an industrial process",
+        "sentence": "The company refines crude oil into gasoline."
+    },
+    {
+        "word": "reform",
+        "meaning": "to make changes in (something, typically a social, political, or economic institution or practice) in order to improve it",
+        "sentence": "The government is planning to reform the tax system."
+    },
+    {
+        "word": "refractory",
+        "meaning": "stubborn or unmanageable",
+        "sentence": "The refractory child refused to follow the teacher's instructions."
+    },
+    {
+        "word": "refulgent",
+        "meaning": "shining brightly",
+        "sentence": "The refulgent sun set behind the mountains."
+    },
+    {
+        "word": "refute",
+        "meaning": "to prove (a statement or theory) to be wrong or false; disprove",
+        "sentence": "He refuted the allegations with solid evidence."
+    },
+    {
+        "word": "rejuvenate",
+        "meaning": "to make (someone or something) look or feel younger, fresher, or more lively",
+        "sentence": "The spa treatment rejuvenated her tired skin."
+    },
+    {
+        "word": "relegate",
+        "meaning": "to consign or dismiss to an inferior rank or position",
+        "sentence": "The team was relegated to the lower division after losing the match."
+    },
+    {
+        "word": "relinquish",
+        "meaning": "to voluntarily cease to keep or claim; give up",
+        "sentence": "He decided to relinquish his role as manager."
+    },
+    {
+        "word": "remedial",
+        "meaning": "giving or intended as a remedy or cure",
+        "sentence": "The school offers remedial classes for students who need extra help."
+    },
+    {
+        "word": "remonstrate",
+        "meaning": "to make a forcefully reproachful protest",
+        "sentence": "The workers remonstrated against the unfair treatment."
+    },
+    {
+        "word": "renege",
+        "meaning": "to go back on a promise, undertaking, or contract",
+        "sentence": "He reneged on his promise to pay for the dinner."
+    },
+    {
+        "word": "replete",
+        "meaning": "filled or well-supplied with something",
+        "sentence": "The book is replete with interesting facts and anecdotes."
+    },
+    {
+        "word": "reprehensible",
+        "meaning": "deserving censure or condemnation",
+        "sentence": "His reprehensible behavior shocked everyone at the meeting."
+    },
+    {
+        "word": "repress",
+        "meaning": "to subdue (someone or something) by force",
+        "sentence": "The government sought to repress the uprising."
+    },
+    {
+        "word": "reproach",
+        "meaning": "to address (someone) in such a way as to express disapproval or disappointment",
+        "sentence": "He was reproached by his parents for coming home late."
+    },
+    {
+        "word": "repudiate",
+        "meaning": "to refuse to accept or be associated with",
+        "sentence": "She repudiated the accusations against her."
+    },
+    {
+        "word": "repugnant",
+        "meaning": "extremely distasteful; unacceptable",
+        "sentence": "His repugnant behavior offended everyone at the party."
+    },
+    {
+        "word": "rescind",
+        "meaning": "to revoke, cancel, or repeal (a law, order, or agreement)",
+        "sentence": "The government decided to rescind the controversial law."
+    },
+    {
+        "word": "resilient",
+        "meaning": "(of a person or animal) able to withstand or recover quickly from difficult conditions",
+        "sentence": "The resilient community rebuilt their homes after the hurricane."
+    },
+    {
+        "word": "resolute",
+        "meaning": "admirably purposeful, determined, and unwavering",
+        "sentence": "She remained resolute in her decision to pursue a career in medicine."
+    },
+    {
+        "word": "resonant",
+        "meaning": "(of sound) deep, clear, and continuing to sound or ring",
+        "sentence": "The resonant tones of the bell could be heard throughout the village."
+    },
+    {
+        "word": "restrained",
+        "meaning": "characterized by reserve or moderation; unemotional or dispassionate",
+        "sentence": "His restrained response to the criticism showed his maturity."
+    },
+    {
+        "word": "resurgent",
+        "meaning": "increasing or reviving after a period of little activity, popularity, or occurrence",
+        "sentence": "The resurgent interest in vintage clothing has boosted sales for thrift stores."
+    },
+    {
+        "word": "retract",
+        "meaning": "to draw or be drawn back or back in",
+        "sentence": "The cat retracted its claws after it calmed down."
+    },
+    {
+        "word": "revelation",
+        "meaning": "a surprising and previously unknown fact, especially one that is made known in a dramatic way",
+        "sentence": "The revelation of his true identity shocked everyone."
+    },
+    {
+        "word": "revere",
+        "meaning": "to feel deep respect or admiration for (something)",
+        "sentence": "The students revered their professor for his wisdom and kindness."
+    },
+    {
+        "word": "revert",
+        "meaning": "to return to (a previous state, condition, practice, etc.)",
+        "sentence": "After the experiment failed, they reverted to their original plan."
+    },
+    {
+        "word": "ribald",
+        "meaning": "referring to sexual matters in an amusingly rude or irreverent way",
+        "sentence": "The comedian's ribald jokes were not suitable for all audiences."
+    },
+    {
+        "word": "ridicule",
+        "meaning": "the subjection of someone or something to contemptuous and dismissive language or behavior",
+        "sentence": "He became the subject of ridicule after his embarrassing mistake."
+    },
+    {
+        "word": "succumb",
+        "meaning": "to fail to resist (pressure, temptation, or some other negative force)",
+        "sentence": "She succumbed to the temptation of eating the entire cake."
+    },
+    {
+        "word": "suffuse",
+        "meaning": "to gradually spread through or over",
+        "sentence": "The room was suffused with the warm glow of the sunset."
+    },
+    {
+        "word": "supercilious",
+        "meaning": "behaving or looking as though one thinks one is superior to others",
+        "sentence": "His supercilious attitude made him unpopular among his peers."
+    },
+    {
+        "word": "superfluous",
+        "meaning": "unnecessary, especially through being more than enough",
+        "sentence": "The report was filled with superfluous details that distracted from the main points."
+    },
+    {
+        "word": "supplant",
+        "meaning": "to supersede and replace",
+        "sentence": "The old traditions were supplanted by modern customs."
+    },
+    {
+        "word": "supplicate",
+        "meaning": "to ask or beg for something earnestly or humbly",
+        "sentence": "The villagers supplicated the king for mercy."
+    },
+    {
+        "word": "surfeit",
+        "meaning": "an excessive amount of something",
+        "sentence": "There was a surfeit of food at the banquet."
+    },
+    {
+        "word": "surmise",
+        "meaning": "to suppose that something is true without having evidence to confirm it",
+        "sentence": "She surmised that he had left the party early."
+    },
+    {
+        "word": "surreptitious",
+        "meaning": "kept secret, especially because it would not be approved of",
+        "sentence": "They had a surreptitious meeting to discuss the confidential matters."
+    },
+    {
+        "word": "sycophant",
+        "meaning": "a person who acts obsequiously toward someone important in order to gain advantage",
+        "sentence": "The boss was surrounded by sycophants who flattered him constantly."
+    },
+    {
+        "word": "synoptic",
+        "meaning": "of or forming a general summary or synopsis",
+        "sentence": "The book provided a synoptic overview of the subject."
+    },
+    {
+        "word": "temerity",
+        "meaning": "excessive confidence or boldness; audacity",
+        "sentence": "He had the temerity to question the professor's findings."
+    },
+    {
+        "word": "temper",
+        "meaning": "a person's state of mind seen in terms of their being angry or calm",
+        "sentence": "He struggled to control his temper during the argument."
+    },
+    {
+        "word": "temporal",
+        "meaning": "relating to worldly as opposed to spiritual affairs; secular",
+        "sentence": "The bishop focused on temporal matters as well as spiritual ones."
+    },
+    {
+        "word": "tenable",
+        "meaning": "able to be maintained or defended against attack or objection",
+        "sentence": "His argument was no longer tenable after new evidence was presented."
+    },
+    {
+        "word": "tendentious",
+        "meaning": "expressing or intending to promote a particular cause or point of view, especially a controversial one",
+        "sentence": "The tendentious article sparked a heated debate."
+    },
+    {
+        "word": "tenuous",
+        "meaning": "very weak or slight",
+        "sentence": "The connection between the two ideas was tenuous at best."
+    },
+    {
+        "word": "tepid",
+        "meaning": "(especially of a liquid) only slightly warm; lukewarm",
+        "sentence": "The tea was tepid by the time she drank it."
+    },
+    {
+        "word": "terse",
+        "meaning": "sparing in the use of words; abrupt",
+        "sentence": "His terse reply indicated that he was not interested in further discussion."
+    },
+    {
+        "word": "timorous",
+        "meaning": "showing or suffering from nervousness, fear, or a lack of confidence",
+        "sentence": "The timorous student hesitated before speaking up in class."
+    },
+    {
+        "word": "tirade",
+        "meaning": "a long, angry speech of criticism or accusation",
+        "sentence": "The manager's tirade left the employees feeling demoralized."
+    },
+    {
+        "word": "tortuous",
+        "meaning": "full of twists and turns",
+        "sentence": "The tortuous road wound through the mountains."
+    },
+    {
+        "word": "tractable",
+        "meaning": "(of a person or animal) easy to control or influence",
+        "sentence": "The dog was surprisingly tractable, following all of the trainer's commands."
+    },
+    {
+        "word": "transitory",
+        "meaning": "not permanent",
+        "sentence": "The transitory nature of fame means that today's celebrities can be forgotten tomorrow."
+    },
+    {
+        "word": "trepidation",
+        "meaning": "a feeling of fear or agitation about something that may happen",
+        "sentence": "She felt a sense of trepidation before the big presentation."
+    },
+    {
+        "word": "trifling",
+        "meaning": "unimportant or trivial",
+        "sentence": "The meeting was bogged down by trifling details."
+    },
+    {
+        "word": "trite",
+        "meaning": "(of a remark, opinion, or idea) overused and consequently of little import; lacking originality or freshness",
+        "sentence": "The speech was filled with trite expressions and clichés."
+    },
+    {
+        "word": "trivial",
+        "meaning": "of little value or importance",
+        "sentence": "She was annoyed by the trivial complaints from her coworkers."
+    },
+    {
+        "word": "truncate",
+        "meaning": "to shorten (something) by cutting off the top or the end",
+        "sentence": "The essay was truncated to fit the word limit."
+    },
+    {
+        "word": "tumultuous",
+        "meaning": "making a loud, confused noise; uproarious",
+        "sentence": "The tumultuous crowd was hard to control."
+    },
+    {
+        "word": "turbulent",
+        "meaning": "characterized by conflict, disorder, or confusion; not controlled or calm",
+        "sentence": "The turbulent waters made it difficult for the boat to navigate."
+    },
+    {
+        "word": "ubiquitous",
+        "meaning": "present, appearing, or found everywhere",
+        "sentence": "Smartphones have become ubiquitous in today's society."
+    },
+    {
+        "word": "umbrage",
+        "meaning": "offense or annoyance",
+        "sentence": "She took umbrage at his rude remarks."
+    },
+    {
+        "word": "unassailable",
+        "meaning": "unable to be attacked, questioned, or defeated",
+        "sentence": "The fortress was considered unassailable."
+    },
+    {
+        "word": "unconscionable",
+        "meaning": "not right or reasonable",
+        "sentence": "The company's unconscionable practices were exposed by the media."
+    },
+    {
+        "word": "undermine",
+        "meaning": "to erode the base or foundation of (a rock formation)",
+        "sentence": "His actions were intended to undermine her authority."
+    },
+    {
+        "word": "underscore",
+        "meaning": "to underline (something)",
+        "sentence": "The report underscores the need for better safety measures."
+    },
+    {
+        "word": "undulate",
+        "meaning": "to move or go with a smooth up-and-down motion",
+        "sentence": "The flag undulated in the breeze."
+    },
+    {
+        "word": "unequivocal",
+        "meaning": "leaving no doubt; unambiguous",
+        "sentence": "His answer was unequivocal: he would not support the proposal."
+    },
+    {
+        "word": "unfeigned",
+        "meaning": "genuine; sincere",
+        "sentence": "Her unfeigned interest in their stories made her a great listener."
+    },
+    {
+        "word": "unfettered",
+        "meaning": "released from restraint or inhibition",
+        "sentence": "The artist's creativity was unfettered by convention."
+    },
+    {
+        "word": "unprecedented",
+        "meaning": "never done or known before",
+        "sentence": "The unprecedented move shocked the industry."
+    },
+    {
+        "word": "unseemly",
+        "meaning": "(of behavior or actions) not proper or appropriate",
+        "sentence": "His unseemly conduct at the event was widely criticized."
+    },
+    {
+        "word": "untenable",
+        "meaning": "(especially of a position or view) not able to be maintained or defended against attack or objection",
+        "sentence": "The theory was proven untenable by new evidence."
+    },
+    {
+        "word": "untoward",
+        "meaning": "unexpected and inappropriate or inconvenient",
+        "sentence": "The meeting was interrupted by an untoward incident."
+    },
+    {
+        "word": "unwieldy",
+        "meaning": "difficult to carry or move because of its size, shape, or weight",
+        "sentence": "The unwieldy package was hard to carry through the narrow door."
+    },
+    {
+        "word": "upbraid",
+        "meaning": "to find fault with (someone); scold",
+        "sentence": "The teacher upbraided the student for being late."
+    },
+    {
+        "word": "urbane",
+        "meaning": "(of a person, especially a man) suave, courteous, and refined in manner",
+        "sentence": "The urbane host made everyone feel welcome at the party."
+    },
+    {
+        "word": "utilitarian",
+        "meaning": "designed to be useful or practical rather than attractive",
+        "sentence": "The building's utilitarian design was functional but not aesthetically pleasing."
+    },
+    {
+        "word": "variegated",
+        "meaning": "exhibiting different colors, especially as irregular patches or streaks",
+        "sentence": "The garden was filled with variegated plants, creating a vibrant display."
+    },
+    {
+        "word": "vaunt",
+        "meaning": "to boast about or praise (something), especially excessively",
+        "sentence": "He vaunted his achievements at every opportunity."
+    },
+    {
+        "word": "vehement",
+        "meaning": "showing strong feeling; forceful, passionate, or intense",
+        "sentence": "She was vehement in her opposition to the new policy."
+    },
+    {
+        "word": "venal",
+        "meaning": "showing or motivated by susceptibility to bribery",
+        "sentence": "The venal official accepted bribes in exchange for favors."
+    },
+    {
+        "word": "venerate",
+        "meaning": "to regard with great respect; revere",
+        "sentence": "The community venerates the local hero for his bravery."
+    },
+    {
+        "word": "veracious",
+        "meaning": "speaking or representing the truth",
+        "sentence": "The journalist was known for his veracious reporting."
+    },
+    {
+        "word": "verbose",
+        "meaning": "using or expressed in more words than are needed",
+        "sentence": "The verbose speech was hard to follow."
+    },
+    {
+        "word": "veritable",
+        "meaning": "used as an intensifier, often to qualify a metaphor",
+        "sentence": "The party was a veritable feast, with food and drink in abundance."
+    },
+    {
+        "word": "vexation",
+        "meaning": "the state of being annoyed, frustrated, or worried",
+        "sentence": "Her repeated lateness caused him great vexation."
+    },
+    {
+        "word": "vigilant",
+        "meaning": "keeping careful watch for possible danger or difficulties",
+        "sentence": "The guards remained vigilant throughout the night."
+    },
+    {
+        "word": "vilify",
+        "meaning": "to speak or write about in an abusively disparaging manner",
+        "sentence": "The politician was vilified in the press for his controversial remarks."
+    },
+    {
+        "word": "vindicate",
+        "meaning": "to clear (someone) of blame or suspicion",
+        "sentence": "The new evidence served to vindicate her claim of innocence."
+    },
+    {
+        "word": "virulent",
+        "meaning": "(of a disease or poison) extremely severe or harmful in its effects",
+        "sentence": "The virulent strain of the virus caused widespread panic."
+    },
+    {
+        "word": "viscous",
+        "meaning": "having a thick, sticky consistency between solid and liquid; having a high viscosity",
+        "sentence": "The viscous syrup poured slowly over the pancakes."
+    },
+    {
+        "word": "visionary",
+        "meaning": "(especially of a person) thinking about or planning the future with imagination or wisdom",
+        "sentence": "The entrepreneur was a visionary leader who transformed the industry."
+    },
+    {
+        "word": "volatile",
+        "meaning": "(of a substance) easily evaporated at normal temperatures",
+        "sentence": "The volatile chemicals must be handled with care."
+    },
+    {
+        "word": "voluble",
+        "meaning": "(of a person) talking fluently, readily, or incessantly",
+        "sentence": "The voluble speaker captivated the audience with his eloquence."
+    },
+    {
+        "word": "voracious",
+        "meaning": "wanting or devouring great quantities of food",
+        "sentence": "The voracious appetite of the athlete was well known."
+    },
+    {
+        "word": "vulnerable",
+        "meaning": "susceptible to physical or emotional attack or harm",
+        "sentence": "The small village was vulnerable to attack by the enemy."
+    },
+    {
+        "word": "waning",
+        "meaning": "(especially of a condition or feeling) decrease in vigor, power, or extent; become weaker",
+        "sentence": "His influence in the company is waning as new leadership takes over."
+    },
+    {
+        "word": "wary",
+        "meaning": "feeling or showing caution about possible dangers or problems",
+        "sentence": "She was wary of strangers offering help."
+    },
+    {
+        "word": "woeful",
+        "meaning": "characterized by, expressive of, or causing sorrow or misery",
+        "sentence": "The woeful tale of lost love brought tears to everyone's eyes."
+    },
+    {
+        "word": "zealous",
+        "meaning": "having or showing zeal",
+        "sentence": "The zealous campaigners worked tirelessly for their cause."
+    },
+    {
+        "word": "zenith",
+        "meaning": "the time at which something is most powerful or successful",
+        "sentence": "The singer reached the zenith of her career in the early 2000s."
+    },
+    {
+        "word": "zephyr",
+        "meaning": "a soft gentle breeze",
+        "sentence": "The zephyr from the sea brought a coolness to the evening."
+    },
+    {
+        "word": "zest",
+        "meaning": "great enthusiasm and energy",
+        "sentence": "He had a zest for life that was infectious."
+    },
+    {
+        "word": "yearn",
+        "meaning": "to have an intense feeling of longing for something, typically something that one has lost or been separated from",
+        "sentence": "She yearned for the days when life was simpler."
+    },
+    {
+        "word": "yoke",
+        "meaning": "to join together; to connect, especially in terms of bondage or servitude",
+        "sentence": "The farmers yoked the oxen to the plow."
+    },
+    {
+        "word": "yield",
+        "meaning": "to produce or provide (a natural, agricultural, or industrial product)",
+        "sentence": "The fields yielded a bountiful harvest."
+    },
+    {
+        "word": "wistful",
+        "meaning": "having or showing a feeling of vague or regretful longing",
+        "sentence": "She looked at the old photos with a wistful smile."
+    },
+    {
+        "word": "whimsical",
+        "meaning": "playfully quaint or fanciful, especially in an appealing and amusing way",
+        "sentence": "The whimsical design of the house made it stand out in the neighborhood."
+    },
+    {
+        "word": "wary",
+        "meaning": "feeling or showing caution about possible dangers or problems",
+        "sentence": "She was wary of strangers offering her help."
+    },
+    {
+        "word": "wane",
+        "meaning": "to decrease in vigor, power, or extent; become weaker",
+        "sentence": "His influence in the company was waning as new leadership took over."
+    },
+    {
+        "word": "vulnerable",
+        "meaning": "susceptible to physical or emotional harm",
+        "sentence": "The small village was vulnerable to attacks."
+    },
+    {
+        "word": "voluminous",
+        "meaning": "occupying or containing much space; large in volume, in particular",
+        "sentence": "She wore a voluminous skirt that swirled as she danced."
+    },
+    {
+        "word": "vex",
+        "meaning": "to make (someone) feel annoyed, frustrated, or worried, especially with trivial matters",
+        "sentence": "The constant buzzing of the fly vexed him to no end."
+    },
+    {
+        "word": "venerable",
+        "meaning": "accorded a great deal of respect, especially because of age, wisdom, or character",
+        "sentence": "The venerable professor had taught at the university for over 40 years."
+    },
+    {
+        "word": "vacillate",
+        "meaning": "to alternate or waver between different opinions or actions; be indecisive",
+        "sentence": "She vacillated for so long that the opportunity was lost."
+    },
+    {
+        "word": "ubiquitous",
+        "meaning": "present, appearing, or found everywhere",
+        "sentence": "Smartphones have become ubiquitous in today’s society."
+    },
+    {
+        "word": "truncate",
+        "meaning": "to shorten by cutting off the top or the end",
+        "sentence": "The essay was truncated to meet the word limit."
+    },
+    {
+        "word": "trivial",
+        "meaning": "of little value or importance",
+        "sentence": "The argument was over something trivial, but it still upset her."
+    },
+    {
+        "word": "transmute",
+        "meaning": "to change in form, nature, or substance",
+        "sentence": "Alchemy was believed to be able to transmute base metals into gold."
+    },
+    {
+        "word": "tangible",
+        "meaning": "perceptible by touch",
+        "sentence": "There was a tangible sense of relief in the room after the announcement."
+    },
+    {
+        "word": "tenuous",
+        "meaning": "very weak or slight",
+        "sentence": "The connection between the two ideas was tenuous at best."
+    },
+    {
+        "word": "taciturn",
+        "meaning": "(of a person) reserved or uncommunicative in speech; saying little",
+        "sentence": "The taciturn man rarely spoke, preferring to listen."
+    },
+    {
+        "word": "synergy",
+        "meaning": "the interaction or cooperation of two or more organizations, substances, or other agents to produce a combined effect greater than the sum of their separate effects",
+        "sentence": "The synergy between the two departments led to better overall performance."
+    },
+    {
+        "word": "sublime",
+        "meaning": "of such excellence, grandeur, or beauty as to inspire great admiration or awe",
+        "sentence": "The view from the mountaintop was absolutely sublime."
+    },
+    {
+        "word": "spurious",
+        "meaning": "not being what it purports to be; false or fake",
+        "sentence": "The spurious claims of the advertisement were quickly debunked."
+    },
+    {
+        "word": "solace",
+        "meaning": "comfort or consolation in a time of distress or sadness",
+        "sentence": "She found solace in her friends after the loss of her pet."
+    },
+    {
+        "word": "serene",
+        "meaning": "calm, peaceful, and untroubled; tranquil",
+        "sentence": "The serene lake reflected the sky like a mirror."
+    },
+    {
+        "word": "scrutinize",
+        "meaning": "to examine or inspect closely and thoroughly",
+        "sentence": "The detective scrutinized every detail of the crime scene."
+    },
+    {
+        "word": "sanguine",
+        "meaning": "optimistic or positive, especially in an apparently bad or difficult situation",
+        "sentence": "Despite the challenges, she remained sanguine about the future."
+    },
+    {
+        "word": "respite",
+        "meaning": "a short period of rest or relief from something difficult or unpleasant",
+        "sentence": "The weekend offered a brief respite from her busy work schedule."
+    },
+    {
+        "word": "resilient",
+        "meaning": "(of a person or animal) able to withstand or recover quickly from difficult conditions",
+        "sentence": "Children are often more resilient than adults realize."
+    },
+    {
+        "word": "reproach",
+        "meaning": "to address (someone) in such a way as to express disapproval or disappointment",
+        "sentence": "He was reproached by his parents for coming home late."
+    },
+    {
+        "word": "reciprocity",
+        "meaning": "the practice of exchanging things with others for mutual benefit",
+        "sentence": "Reciprocity is key to maintaining healthy relationships."
+    },
+    {
+        "word": "quandary",
+        "meaning": "a state of perplexity or uncertainty over what to do in a difficult situation",
+        "sentence": "He was in a quandary over which option to choose."
+    },
+    {
+        "word": "quaint",
+        "meaning": "attractively unusual or old-fashioned",
+        "sentence": "The quaint village looked like something out of a fairy tale."
+    },
+    {
+        "word": "prodigy",
+        "meaning": "a person, especially a young one, endowed with exceptional qualities or abilities",
+        "sentence": "The child prodigy could play the piano beautifully by age five."
+    },
+    {
+        "word": "plethora",
+        "meaning": "a large or excessive amount of something",
+        "sentence": "There was a plethora of options to choose from at the restaurant."
+    },
+    {
+        "word": "placate",
+        "meaning": "to make (someone) less angry or hostile",
+        "sentence": "She tried to placate the angry customer by offering a discount."
+    },
+    {
+        "word": "penchant",
+        "meaning": "a strong or habitual liking for something or tendency to do something",
+        "sentence": "He has a penchant for collecting rare coins."
+    },
+    {
+        "word": "obscure",
+        "meaning": "not discovered or known about; uncertain",
+        "sentence": "The origins of the ancient artifact are obscure."
+    },
+    {
+        "word": "nimble",
+        "meaning": "quick and light in movement or action; agile",
+        "sentence": "The dancer's nimble movements captivated the audience."
+    },
+    {
+        "word": "melancholy",
+        "meaning": "a feeling of pensive sadness, typically with no obvious cause",
+        "sentence": "There was a melancholy air about him after the breakup."
+    },
+    {
+        "word": "lament",
+        "meaning": "a passionate expression of grief or sorrow",
+        "sentence": "The poem was a lament for the lost soldiers."
+    },
+    {
+        "word": "kindle",
+        "meaning": "to light or set on fire; to arouse or inspire (an emotion or feeling)",
+        "sentence": "The teacher’s enthusiasm kindled a love of learning in her students."
+    },
+    {
+        "word": "keen",
+        "meaning": "having or showing eagerness or enthusiasm",
+        "sentence": "She was keen to start her new job after graduating."
+    },
+    {
+        "word": "jubilant",
+        "meaning": "feeling or expressing great happiness and triumph",
+        "sentence": "The team was jubilant after winning the championship."
+    },
+    {
+        "word": "inundate",
+        "meaning": "to overwhelm (someone) with things or people to be dealt with",
+        "sentence": "She was inundated with emails after the product launch."
+    },
+    {
+        "word": "innate",
+        "meaning": "inborn; natural",
+        "sentence": "She had an innate ability to make everyone around her feel comfortable."
+    },
+    {
+        "word": "indignant",
+        "meaning": "feeling or showing anger or annoyance at what is perceived as unfair treatment",
+        "sentence": "He was indignant when he was unfairly accused of cheating."
+    },
+    {
+        "word": "indelible",
+        "meaning": "making marks that cannot be removed",
+        "sentence": "The experience left an indelible impression on her."
+    },
+    {
+        "word": "impertinent",
+        "meaning": "not showing proper respect; rude",
+        "sentence": "The impertinent student was sent to the principal's office for talking back."
+    },
+    {
+        "word": "impeccable",
+        "meaning": "in accordance with the highest standards; faultless",
+        "sentence": "Her work ethic was impeccable, earning her the respect of her peers."
+    },
+    {
+        "word": "hubbub",
+        "meaning": "a chaotic din caused by a crowd of people",
+        "sentence": "The hubbub of the city could be heard from their apartment."
+    },
+    {
+        "word": "harried",
+        "meaning": "feeling strained as a result of having demands persistently made on one; harassed",
+        "sentence": "The harried mother of three barely had time to relax."
+    },
+    {
+        "word": "guffaw",
+        "meaning": "a loud and boisterous laugh",
+        "sentence": "The comedian's joke caused the audience to burst into guffaws."
+    },
+    {
+        "word": "gumption",
+        "meaning": "shrewd or spirited initiative and resourcefulness",
+        "sentence": "It took a lot of gumption to start his own business at such a young age."
+    },
+    {
+        "word": "galvanize",
+        "meaning": "to shock or excite (someone) into taking action",
+        "sentence": "The tragic event galvanized the community to take action."
+    },
+    {
+        "word": "fortitude",
+        "meaning": "courage in pain or adversity",
+        "sentence": "She showed great fortitude in the face of adversity."
+    }
+]
