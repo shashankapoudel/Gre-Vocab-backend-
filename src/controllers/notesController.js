@@ -6,8 +6,8 @@ const asyncHandler = require("../utils/asyncHandler");
 
 const addNote = asyncHandler(async (req, res) => {
     const { wordId, note, wordToAdd } = req.body;
-    console.log(wordToAdd)
-    console.log(note);
+    // console.log(wordToAdd)
+    // console.log(note);
     const userId = req.user._id;
 
     let existingNote = await Notes.findOne({ wordId, userId })
