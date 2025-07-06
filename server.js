@@ -2,7 +2,8 @@
 const express = require('express');
 const dotenv = require('dotenv');
 const connectDB = require('./src/config/db');
-const cors = require('cors')
+const cors = require('cors');
+const { scheduleDailyEmail } = require('./src/utils/sendDailyWord');
 
 
 dotenv.config();
@@ -16,7 +17,7 @@ app.use(cors({
         'http://localhost:5173',
         'https://grevocab-frontend.vercel.app',
         "https://shashankapoudel.com.np"],
-    methods: ["POST", "GET", "PUT"]
+    methods: ["POST", "GET", "PUT", "PATCH"]
 }));
 
 app.use('/api/words', require('./src/routes/wordRoutes'));
@@ -31,6 +32,8 @@ app.use('/api/', require('./src/routes/leaderBoardRoutes'))
 app.use('/api', require('./src/routes/noteRoutes'))
 
 const PORT = process.env.PORT || 4000;
+
+scheduleDailyEmail();
 
 app.listen(PORT, () => {
     console.log(`Server started on port ${PORT}`);

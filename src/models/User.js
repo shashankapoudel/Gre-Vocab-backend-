@@ -51,6 +51,10 @@ const UserSchema = new mongoose.Schema({
     streakCount: {
         type: Number,
         default: 0
+    },
+    subscribedForDailyEmail: {
+        type: Boolean,
+        default: false,
     }
 
 })
