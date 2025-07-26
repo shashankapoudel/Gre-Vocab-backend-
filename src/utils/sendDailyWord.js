@@ -15,8 +15,8 @@ const transporter = nodemailer.createTransport({
 });
 
 const scheduleDailyEmail = () => {
-    cron.schedule('0 9 * * *', async () => {
-        // cron.schedule('* * * * *', async () => {
+    // cron.schedule('0 9 * * *', async () => {
+    cron.schedule('* * * * *', async () => {
         // your email sending logic here
         try {
             const randomWord = await Word.aggregate([{ $sample: { size: 1 } }]);
