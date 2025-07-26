@@ -23,7 +23,7 @@ const scheduleDailyEmail = () => {
             const wordOfTheDay = randomWord[0];
             if (!wordOfTheDay) return;
 
-            const users = await User.find();
+            const users = await User.find({ subscribedForDailyEmail: true });
 
             for (const user of users) {
                 await transporter.sendMail({
